@@ -1,0 +1,22 @@
+
+
+html, body {
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+.app-main {
+    height: 100%;
+    border-top: 2px solid #667;
+}
+
+
+.content-area {
+    padding-left: 3px;
+    padding-top: 30px;   
+}
+
+

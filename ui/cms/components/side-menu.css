@@ -1,0 +1,11 @@
+
+.side-menu {
+    padding: 10px;
+    height: 100%;
+    width: 300px;
+    float: left;
+    border: #667;
+    border-right: 5px solid #667;
+    background-color: #aab;
+}
+

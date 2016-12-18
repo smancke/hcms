@@ -24,6 +24,8 @@ __Warning: Don't use for now: It's just started__
 ** Optional slaves/replicas for serving the content (nosql approach with json search capabilities)
 * Rest API and GraphQL API
 * Without own user management, but secured using JWT
+* Good candidate for storage: HouzuoGuo/tiedot
+
 
 ## License
 MIT Licensed

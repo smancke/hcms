@@ -1,2 +1,5 @@
 cover.out
 drafts
+ui/node_modules
+ui/cms/dist/
+ui/npm-debug.log
